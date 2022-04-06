@@ -1,0 +1,257 @@
+body {
+    font-family: 'Raleway', Arial, sans-serif;
+    width: 90%;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing : border-box;
+    color: white;
+    background-color : #212121;
+}
+
+section {
+    width: 95%;
+    border: 3px solid rgba(76, 73, 69, 0.739);
+    border-radius: 5px;
+    margin: 15px 15px;
+    padding-bottom: 5px;
+    padding-left: 19px;
+}
+
+h1 {
+    width: 50%;
+    font-size: 40px;
+    margin-left: 40px;
+    margin-right: auto;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+h2 {
+    padding-left: 40px;
+    font-weight: 500;
+    font-family: Nunito, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+a:link {
+    color: #6BA7FF;
+}
+
+a:visited {
+    color: #bb93fa;
+}
+
+a:hover {
+    color: #6BA7FF;
+    text-decoration: none; 
+}
+
+a:active {
+    color: #FF9D2D;
+    text-decoration: none;
+}
+
+
+
+
+.color {
+    display : inline-block;
+    width : 32%;
+    height : 120px;
+    border : 1px solid transparent;
+    border-radius : 5px;
+    margin : 3px 2px;
+    box-sizing : border-box;
+
+}
+
+.colorName {
+    text-align : center;
+    margin-top : 33px;
+    color : #FFF;
+    font-weight : 500;
+    font-family: 'Nunito', sans-serif;
+}
+
+.hexLine {
+    text-align : center;
+    color : #FFF;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.hexCode {
+    font-style : italic;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.fonts {
+    display : inline-block;
+    margin-left: 20px;
+    width : 30%;
+    height : 200px;
+}
+
+.fonts h3 {
+    margin-top : 0;
+}
+
+.styles {
+    display: inline-block;
+    margin-left: 55px;
+}
+
+.styleDescr {
+    margin-left: 10px;
+    font-size : 16px;
+    margin-top: 5px;
+}
+
+.styleDescr li {
+    padding-bottom: 5px;
+}
+
+
+#Dforce {
+    width: 90%;
+    height: 160px;
+    border: 2px solid rgba(255, 255, 255, 0.416);
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 42px;
+    margin-right: 53px;
+    box-sizing: border-box;
+    background-color: #212121;
+}
+
+#Dforce h3 {
+    font-size: 60px;
+    margin-top: 30px;
+    font-family: 'Rubik Glitch', cursive;
+    margin-bottom: 10px;
+}
+
+#Dforce p {
+
+
+}
+
+#colorsDiv {
+    padding-bottom: 10px;
+}
+
+#Hgreen {
+    background-color : #017F06;
+}
+
+#Igreen {
+    background-color: #013A06;
+}
+
+#grey {
+    background-color: #4C4945;
+}
+
+#blue {
+    background-color: #6BA7FF;
+}
+
+#pumpkin {
+    background-color: #FF9100;
+}
+
+#lavander {
+    background-color: #9F64FF;
+}
+
+#font1 {
+    padding-left: 52px;
+}
+
+#font1 h3, #font1 p {
+    font-family: 'Raleway', sans-serif;
+}
+
+#font1 p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+#font2 h3, #font2 p {
+    font-family: 'Nunito', sans-serif;
+}
+
+#font2 p {
+    font-size: 17px;
+}
+
+#font3 h3, #font3 p {
+    font-family: 'Quicksand', sans-serif;
+}
+
+#font3 p {
+    font-size: 16px;
+    line-height: 1.55;
+}
+
+#styleDiv h2 {
+    margin-bottom: 5px;
+}
+
+#style1 {
+    margin-left: 85px;
+}
+
+#h1Text {
+    width: 422px;
+    font-size: 40px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#h2Text {
+    width: 178px;
+    font-weight: 500;
+    font-family: 'Quicksand', Verdana, sans-serif;
+    text-decoration: underline;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+#pText {
+    width: 113px;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 22px;
+    font-size: 14px;
+}
+
+#stylesDiv li {
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+#stylesDiv li {
+    margin-left: 50px;
+}
